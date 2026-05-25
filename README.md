@@ -43,3 +43,7 @@ The software uses a lightweight desktop architecture with in-memory processing t
 ## 📹 Demo
 
 [![Demo Video](https://img.shields.io/badge/Ver_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/Wpzo3R9eCP8)
+
+## 📹 VIDEO-CODE
+
+[![Demo Video](https://img.shields.io/badge/Ver_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/lPxpnkTSmEo)
